@@ -16,3 +16,11 @@
 ## 待用
 
 - lint (eslint, pretty, csslint, ...)
+
+## 未完成事项
+
+- docker
+
+- 对接接口（需要后台nodejs服务）
+
+- nginx
